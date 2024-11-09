@@ -29,3 +29,5 @@ dotnet run
 ## Usage
 * Enter your birth date when prompted.
 * The app will display the countdown until your next birthday.
+### Screenshot
+![alt text](screenshot.png)
