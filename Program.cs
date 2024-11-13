@@ -17,8 +17,6 @@ else
     return;
 }
 
-
-
 DateTime nextBDay = Convert.ToDateTime(date.AddYears(today.Year - date.Year + 1));
 int daysLeft = nextBDay.Subtract(today).Days;
 
